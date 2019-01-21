@@ -5,5 +5,9 @@ public class HomePage {
 	{
 		System.out.println("Home page...");
 	}
+	public void menuPage()
+	{
+		System.out.println("Menu page...");
+	}
 
 }
