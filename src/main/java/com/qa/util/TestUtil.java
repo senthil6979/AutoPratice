@@ -4,7 +4,8 @@ public class TestUtil {
 	
 	public void testUtil()
 	{
-		System.out.println("Test util...");
+		System.out.println("Test util test...");
+		
 	}
 
 }
